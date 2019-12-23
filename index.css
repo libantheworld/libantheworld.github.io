@@ -13,6 +13,16 @@ body {
     margin: 5px;
 }
 
+.links {
+    display: flex;
+    flex-direction: row;
+}
+
+.link {
+    margin: 5px;
+    margin-top: 30px;
+}
+
 .row {
     display: flex;
     flex-direction: row;
